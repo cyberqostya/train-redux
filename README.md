@@ -14,3 +14,9 @@ Github Pages: https://cyberqostya.github.io/train-redux
 1. Асинхронный Redux-saga ```workers watchers effects```
 1. Рефакторинг и декомпозиция
 
+### Краткая работа
+1. *Add cash* добавляет деньги через prompt()
+1. *Get cash* снимает деньги через prompt()
+1. *Add customer* добавляет имя пользователя через prompt()
+1. *Add customers from database* отправляет запрос на REST API, а затем отрисовывает пользователей
+1. Пользователей можно удалить, клинув по их имени
